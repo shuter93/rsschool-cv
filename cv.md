@@ -7,3 +7,4 @@
 5. No
 6. Support for users with PC< printing equipment
 7. _Coplete secondary education_
+8. **Beginner level of English with Google translate**
